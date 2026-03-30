@@ -72,7 +72,7 @@ This algorithmic implementation is deeply grounded in macroeconomic theory and t
 * **Stock, J. H., & Watson, M. W. (1988).** *A Probability Model of the Coincident Economic Indicators* (NBER Working Paper No. 2772). National Bureau of Economic Research.
 * **Mariano, R. S., & Murasawa, Y. (2003).** *A New Coincident Index of Business Cycles Based on Monthly and Quarterly Series.* Journal of Applied Econometrics.
 
-**Acknowledgments:**
+Acknowledgments:
 The MATLAB architecture and modeling approach in this repository are heavily inspired by a more advanced, multi-variable Nowcasting framework developed by my professor, **Gabriel Perez Quiros**. This project serves as a streamlined adaptation of his teachings, focusing on the core mechanics of the dynamic factor model and the Kalman Filter.
 ---
 *Developed by **Luis Martínez Vicente** - Economist & Data Scientist*
