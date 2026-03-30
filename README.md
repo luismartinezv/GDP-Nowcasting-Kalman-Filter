@@ -4,7 +4,7 @@
 ![Econometrics](https://img.shields.io/badge/Econometrics-State_Space_Models-darkred)
 ![Status](https://img.shields.io/badge/Status-Production_Ready-success)
 
-> **⚠️ NOTE FOR TECH RECRUITERS & ENGINEERS:** > **Python Migration in Progress:** I am currently translating this State-Space architecture from MATLAB to Python utilizing `statsmodels.tsa.statespace` to allow seamless API integration and cloud deployment in modern Tech stacks.
+> **⚠️ NOTE FOR TECH RECRUITERS & ENGINEERS:** > **Python Migration in Progress:** I am currently translating this State-Space architecture from MATLAB to Python.
 
 ## 1. Executive Summary & Business Impact
 
