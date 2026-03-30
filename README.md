@@ -29,7 +29,7 @@ To map the monthly latent factor to the quarterly GDP, the algorithm implements 
 
 ## 3. Algorithmic Implementation (The Kalman Filter)
 
-The parameters $\theta$ (factor loadings $\lambda$, AR coefficients $\phi, \psi$, and shock variances $\sigma^2$) are estimated via **Maximum Likelihood Estimation (MLE)** using a Quasi-Newton numerical optimizer (`fminunc`).
+The parameters $\theta$ (factor loadings $\lambda$, AR coefficients $\phi, \psi$, and shock variances $\sigma^2$) are estimated via **Maximum Likelihood Estimation (MLE)** using a numerical optimizer (`fminunc`).
 
 For each iteration, the Kalman Filter performs the recursive loop:
 1. **Prediction:** $\hat{h}_{t|t-1} = F\hat{h}_{t-1|t-1}$
