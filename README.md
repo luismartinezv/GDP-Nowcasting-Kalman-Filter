@@ -74,6 +74,7 @@ This algorithmic implementation is deeply grounded in macroeconomic theory and t
 
 Acknowledgments:
 The MATLAB architecture and modeling approach in this repository are heavily inspired by a more advanced, multi-variable Nowcasting framework developed by my professor, **Gabriel Perez Quiros**. This project serves as a streamlined adaptation of his teachings, focusing on the core mechanics of the dynamic factor model and the Kalman Filter.
+
 ---
 *Developed by **Luis Martínez Vicente** - Economist & Data Scientist*
 *[Connect on LinkedIn -> Still to be updated](https://www.linkedin.com/in/luis-mart%C3%ADnez-77a857331/)*
