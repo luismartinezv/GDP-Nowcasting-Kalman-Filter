@@ -18,6 +18,7 @@ The model is formulated as a linear State-Space system. To handle the autocorrel
 
 **Measurement Equation (Observation):**
 $$y_t = H h_t$$
+
 Where $y_t$ contains the standardized monthly observables (e.g., Industrial Production, Sales), and $H$ is the loading matrix.
 
 **Transition Equation (System Dynamics):**
