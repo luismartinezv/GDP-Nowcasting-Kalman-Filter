@@ -35,17 +35,21 @@ The parameters $\theta$ (factor loadings $\lambda$, AR coefficients $\phi, \psi$
 For each iteration, the Kalman Filter performs the recursive loop:
 
 **1. Prediction:**
+
 $$\hat{h}_{t|t-1} = F\hat{h}_{t-1|t-1}$$
 
 **2. Innovation (Forecast Error):**
+
 $$e_{t|t-1} = y_t - H\hat{h}_{t|t-1}$$
 
 **3. Update (Kalman Gain):**
+
 $$\hat{h}_{t|t} = \hat{h}_{t|t-1} + K_t e_{t|t-1}$$
 
 Finally, a **Bridge Equation (OLS Regression)** translates the abstract latent factor into real GDP percentage growth units:
 
 $$GDP_t = \beta_0 + \beta_1 \hat{f}^{Q}_t + u_t$$
+
 ## 4. Results & Business Implications
 
 ### Latent Factor vs. Historical GDP
