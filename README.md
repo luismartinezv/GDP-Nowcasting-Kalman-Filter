@@ -65,6 +65,15 @@ Using the optimal transition matrix $F$, the Markov Chain is projected forward. 
 
 ![Nowcasting Forecast](results/gdp_nowcasting.png)
 
+## 📚 5. References & Acknowledgments
+
+This algorithmic implementation is deeply grounded in macroeconomic theory and time-series econometrics. The core state-space representation and factor extraction methodology are based on the foundational work by:
+
+* **Stock, J. H., & Watson, M. W. (1988).** *A Probability Model of the Coincident Economic Indicators* (NBER Working Paper No. 2772). National Bureau of Economic Research.
+* **Mariano, R. S., & Murasawa, Y. (2003).** *A New Coincident Index of Business Cycles Based on Monthly and Quarterly Series.* Journal of Applied Econometrics.
+
+**Acknowledgments:**
+The MATLAB architecture and modeling approach in this repository are heavily inspired by a more advanced, multi-variable Nowcasting framework developed by my professor, **Gabriel Perez Quiros**. This project serves as a streamlined adaptation of his teachings, focusing on the core mechanics of the dynamic factor model and the Kalman Filter.
 ---
 *Developed by **Luis Martínez Vicente** - Economist & Data Scientist*
-*[Connect on LinkedIn](INSERTA_TU_LINK_DE_LINKEDIN_AQUI)*
+*[Connect on LinkedIn -> Still to be updated](https://www.linkedin.com/in/luis-mart%C3%ADnez-77a857331/)*
